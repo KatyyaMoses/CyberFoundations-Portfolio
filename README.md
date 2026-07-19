@@ -1,5 +1,16 @@
 # CyberVisionaries Institute (CVI) — Cyber Foundations Student Portfolio
 
+Hi, I'm Katyya (Ka-ti-ya or Kay for short.
+
+Who I Am
+I'm an educator, entrepreneur, and tax professional who is transitioning into cybersecurity after earning the Cisco CCST Networking and CompTIA IT Fundamentals certifications.
+
+Why I'm Here
+I'm taking Cyber Foundations to strengthen my technical skills, gain hands-on experience, and build a portfolio that demonstrates my growth in cybersecurity.
+
+What I'm Building
+I'm building practical experience in GRC, cloud security, PKI, and security operations while preparing for my first cybersecurity role.
+
 **New here? Read [START-HERE.md](START-HERE.md) first — it walks you through your very first commit, step by step.**
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
