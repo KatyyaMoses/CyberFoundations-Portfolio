@@ -1,6 +1,6 @@
 # CyberVisionaries Institute (CVI) — Cyber Foundations Student Portfolio
 
-Hi, I'm Katyya (Ka-ti-ya or Kay for short.
+Hi, I'm Katyya (Ka-ti-ya) or Kay for short.
 
 Who I Am
 I'm an educator, entrepreneur, and tax professional who is transitioning into cybersecurity after earning the Cisco CCST Networking and CompTIA IT Fundamentals certifications.
