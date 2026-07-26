@@ -161,7 +161,7 @@ The RAM and storage numbers describe the hardware. They are physical memory and 
 Pick one process from your list in Part B, Step 6. Is it "software" in the sense Lab 01 used that word? Explain how it depends on the OS and on hardware to actually run.
 
 ```
-Malwarebytes is a software application that I installed, just like Chrome. The OS lets it run and gives it access to scan files. It depends on hardware because it needs RAM to run in and a CPU to do the actual scanning. In Task Manager I could see this — Malwarebytes was using memory and a little CPU while it ran.
+Malwarebytes is a software application that I installed, just like Chrome. The OS lets it run and gives it access to scan files. It depends on hardware because it needs RAM to run in and a CPU to do the actual scanning. In Task Manager, I could see this — Malwarebytes was using memory and a little CPU while it ran.
 ```
 
 ### Analysis Question 2
@@ -169,7 +169,7 @@ Malwarebytes is a software application that I installed, just like Chrome. The O
 Your CPU usage number changes constantly, even when you're not doing anything. Explain, in your own words, why watching this number matters for security work — not just for performance. (Hint: think about what it might mean if a process you don't recognize suddenly spikes CPU usage.)
 
 ```
-Malwarebytes is a software application I installed, just like Chrome. It runs in the background, and the operating system is what gives it access to my files and lets it do its job. Everything I do feeds into the RAM and CPU. I noticed in Task Manager that the CPU number kept changing and was never the same, and the RAM moved back and forth too. It was a great way to see that there's always movement happening in the background, even when it looks like nothing is going on. And even though hardware is physical, there's software attached to it so you can actually see what's happening and make adjustments when something is broken.
+It runs in the background, and the operating system grants it access to my files and lets it do its job. Everything I do feeds into the RAM and CPU. I noticed in Task Manager that the CPU number kept changing and was never the same, and the RAM moved back and forth too. It was a great way to see that there's always movement happening in the background, even when it looks like nothing is going on. And even though hardware is physical, there's software attached to it so you can actually see what's happening and make adjustments when something is broken.
 ```
 
 ### Analysis Question 3
