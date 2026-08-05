@@ -254,7 +254,7 @@ This lab's written answers are submitted through the **CyberFoundations Lab Port
 6. Edit this lab file and paste your copied link into the embed below, at the end of Part B:
 
 ```markdown
-![Permissions audit — final ls -l](paste your copied image link here)
+![Permissions audit — final ls -l]([paste your copied image link here](https://github.com/KatyyaMoses/CyberFoundations-Portfolio/blob/main/assets/screenshots/week-04/cli-permissions-audit.png%20.png)
 ```
 
 **If right-click doesn't show that option** (e.g., on some trackpads or tablets): click the small download-arrow icon in the top-right of the image preview instead, then copy the URL from your browser's address bar.
