@@ -280,7 +280,7 @@ This lab's written answers are submitted through the **CyberFoundations Lab Port
 4. Edit this lab file and paste your copied link into the embed below, at the end of Part C:
 
 ```markdown
-![Archive investigation — find, check, lock down](paste your copied image link here)
+![Archive investigation — find, check, lock down] https://github.com/KatyyaMoses/CyberFoundations-Portfolio/blob/main/assets/screenshots/week-04/cli-permissions-audit.png%20.png
 ```
 
 **If right-click doesn't show that option:** click the small download-arrow icon in the top-right of the image preview instead, then copy the URL from your browser's address bar.
