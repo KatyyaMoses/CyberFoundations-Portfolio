@@ -152,6 +152,8 @@ Commands you ran:
 
 ```
 mv operations/ops-log/shift-log.txt sorted-findings/
+mv records/records-2025/maintenance-note.txt sorted-findings/
+mv records/records-2024/supply-inventory.txt sorted-findings/
 ```
 
 ### Step 3 — Confirm the Move
@@ -161,16 +163,13 @@ List the contents of `sorted-findings` to confirm all three files are now there.
 Command you ran:
 
 ```
-archivist@archive-room:/home/archivist$ cat sorted-findings
+ls sorted-findings/
 ```
 
 Output:
 
 ```
-
-Shift Log - Foundry District Archive Room
-07:00 - Archive opened, no incidents overnight.
-15:00 - Routine filing complete.
+maintenance-note.txt  shift-log.txt  supply-inventory.txt
 ```
 
 ---
