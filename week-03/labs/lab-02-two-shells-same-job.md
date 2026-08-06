@@ -98,7 +98,6 @@ agent@storeroom-lnx01:/home/agent$ cd archive
 agent@storeroom-lnx01:/home/agent$ ls
 incident-07   incident-42
 
-Here is the video of incident 42  https://www.loom.com/share/69ff920aff394794886ab7667bdd6593
 ```
 
 **⚠️ Stop and check:** run your location-check command *immediately* after moving, to confirm you arrived safely.
@@ -106,14 +105,15 @@ Here is the video of incident 42  https://www.loom.com/share/69ff920aff394794886
 Command you ran:
 
 ```
-agent@storeroom-lnx01:/home/agent/archive/incident-07$ cd incident-07
+agent@storeroom-lnx01:/home/agent/archive/incident-07$ cd incident-42
 agent@storeroom-lnx01:/home/agent/archive/incident-07$ ls
+agent@storeroom-lnx01:/home/agent/archive/incident-07$ cd incident-42
 ```
 
 Output:
 
 ```
-access-log.txt
+access-log.txt 
 ```
 
 ### Step A4 — Inspect the Incident Log File
@@ -123,14 +123,16 @@ Find a text file in this directory and print its contents to the screen to peek 
 Command you ran:
 
 ```
-agent@storeroom-lnx01:/home/agent/archive/incident-07$ cat access-log.txt
+agent@storeroom-lnx01:/home/agent/archive/incident-42$ cat access-log.txt
 ```
 
 Output:
 
 ```
-Access Log - Incident 07
-11:02 - Scheduled maintenance access, approved.
+Access Log - Incident 42
+03.14 - Unknown login attempt, storeroom bay 3.
+03:16 - Access denied.
+03:17 - Alert raised to on-call. 
 ```
 
 ### Step A5 — Create Your Investigation Note
