@@ -282,7 +282,7 @@ For each: on GitHub.com, navigate to `assets/screenshots/week-04/`, click **Add 
 ```
 
 ```markdown
-![VM dashboard — running, with snapshot]([paste your copied image link here](https://github.com/KatyyaMoses/CyberFoundations-Portfolio/blob/main/assets/screenshots/week-04/vm-dashboard-running.png)
+![VM dashboard — running, with snapshot](https://github.com/KatyyaMoses/CyberFoundations-Portfolio/blob/main/assets/screenshots/week-04/vm-dashboard-running.png])
 ```
 
 **If right-click doesn't show that option:** click the small download-arrow icon in the top-right of the image preview instead, then copy the URL from your browser's address bar.
