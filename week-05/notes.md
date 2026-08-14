@@ -78,7 +78,7 @@ Running them in this order matters more than running them fast, because it helps
 What is DHCP, and why does your laptop get an address automatically on a network it has never joined before, while a server like `grid-dns` keeps the same address permanently?
 
 ```
-DHCP is the invisible setup that happens when you join a new network. It automatically hands your device an IP address, the gateway to get out to the internet, and the DNS server to look up names. This is why your laptop gets an address automatically at a cafe, a friend's house, or a hotel. That kind of address is dynamic, which is like a lease, because it's temporary and can change. A server like grid-dns keeps the same address permanently because it's static and can never change. Servers need a fixed address so other machines can always find them at the same spot, but a laptop is fine with a leased one since it's always joining different networks.
+DHCP is the invisible setup that happens when you join a new network. It automatically hands your device an IP address, the gateway to get out to the internet, and the DNS server to look up names. This is why your laptop gets an address automatically at a cafe, a friend's house, or a hotel. That kind of address is dynamic, which is like a lease, because it's temporary and can change. A server like grid-dns keeps the same address permanently because it's static and can never change. Servers need a fixed address so other machines can always find them at the same spot. Therefore a laptop is fine with a leased one since it's always joining different networks.
 ```
 
 ---
