@@ -19,7 +19,7 @@ An NSG (Network Security Group) is a list of firewall rules that decide what tra
 ## First Match Wins
 
 ```text
-Every rule answers these: priority is the order it's read, direction is in or out, source is where traffic comes from, destination is where it's going, protocol is TCP/UDP/ICMP, port is the service being reached (22 is SSH, 8080 is web), and action is Allow or Deny.
+Every rule follows the order of operations: priority is the order it's read, direction is in or out, source is where traffic comes from, destination is where it's going, protocol is TCP/UDP/ICMP, port is the service being reached (22 is SSH, 8080 is web), and action is Allow or Deny.
 ```
 
 ## Least Privilege
@@ -43,5 +43,5 @@ If a test fails, check two things: is the service running, and does the rule all
 ## Questions I Still Have
 
 ```text
-Is there a way to test a rule without starting a listener each time?
+When there are a lot of rules, how do I keep track of the whole situation instead of just looking at one rule at a time? I get that you predict first and then check the evidence, but I'm still working on reading the full list in order before I decide what will happen.
 ```
