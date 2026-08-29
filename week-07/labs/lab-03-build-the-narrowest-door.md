@@ -112,9 +112,9 @@ If you see `SERVICE_NOT_LISTENING`, the rule may be correct but the Python liste
 
 Capture the completed narrow rule and the Grid Beacon `ALLOWED` result. The images must show the source and destination port clearly.
 
-![Completed narrow rule — week07-lab03-rule-created.png](https://github.com/KatyyaMoses/CyberFoundations-Portfolio/blob/main/assets/screenshots/week-07/week07-lab03-rule-created.png?raw=true)
+![Completed narrow rule — week07-lab03-rule-created.png](https://raw.githubusercontent.com/KatyyaMoses/CyberFoundations-Portfolio/refs/heads/main/assets/screenshots/week-07/week07-lab03-rule-created.png)
 
-![Grid Beacon ALLOWED result — week07-lab03-beacon-allowed.png](https://github.com/KatyyaMoses/CyberFoundations-Portfolio/blob/main/assets/screenshots/week-07/week07-lab03-beacon-allowed.png?raw=true)
+![Grid Beacon ALLOWED result — week07-lab03-beacon-allowed.png](https://raw.githubusercontent.com/KatyyaMoses/CyberFoundations-Portfolio/refs/heads/main/assets/screenshots/week-07/week07-lab03-beacon-allowed.png)
 
 ## Explain
 
