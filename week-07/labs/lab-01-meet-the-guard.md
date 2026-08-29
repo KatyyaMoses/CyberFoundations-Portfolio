@@ -99,7 +99,7 @@ This is a read-only lab: do not add, edit, or delete any rule. Your test is visu
 
 Capture the detailed **INBOUND — EVALUATION ORDER** view showing all four protected rules (100, 110, 120, 1000) and no student rule. If it does not fit in one image, use two clearly named images and explain why.
 
-![Security rules baseline — week07-lab01-security-rules-baseline.png](https://github.com/KatyyaMoses/CyberFoundations-Portfolio/blob/main/assets/screenshots/week-07/week07-lab01-security-rules-baseline.png?raw=true)
+![Security rules baseline — week07-lab01-security-rules-baseline.png](https://raw.githubusercontent.com/KatyyaMoses/CyberFoundations-Portfolio/refs/heads/main/assets/screenshots/week-07/week07-lab01-security-rules-baseline.png)
 
 ## Explain
 
