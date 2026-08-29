@@ -103,7 +103,7 @@ Use the displayed rule list to predict whether Grid Beacon TCP 8080 would curren
 
 Capture the detailed **INBOUND — EVALUATION ORDER** view (and **OUTBOUND — EVALUATION ORDER** if your evidence needs it), then name the first matching hypothetical rule and the resulting verdict for each scenario in your worksheet.
 
-![Rule view in evaluation order — week07-lab02-evaluation-order.png](https://github.com/KatyyaMoses/CyberFoundations-Portfolio/blob/main/assets/screenshots/week07/week07-lab02-evaluation-order.png?raw=true)
+![Rule view in evaluation order — week07-lab02-evaluation-order.png](https://github.com/KatyyaMoses/CyberFoundations-Portfolio/blob/main/assets/screenshots/week-07/week07-lab02-evaluation-order.png?raw=true)
 
 ## Explain
 
