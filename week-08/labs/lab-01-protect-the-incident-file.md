@@ -155,7 +155,7 @@ The passphrase was the key. It locked the file during encryption and was the onl
 3. Why does the match test prove correct recovery but not prove who handled the file?
 
 ```text
-The match test only compares the two files and confirms the decrypted copy is identical to the original — so it proves the data recovered correctly. It says nothing about who ran the commands. To know who handled the file, you'd need logs or records of who had the passphrase, since the test only checks the content, not the person.
+The match test only compares the two files and confirms the decrypted copy is identical to the original, so it proves the data recovered correctly. It says nothing about who ran the commands. To know who handled the file, you'd need logs or records of who had the passphrase, since the test only checks the content, not the person.
 ```
 
 ## Required Evidence
