@@ -99,7 +99,7 @@ If SSH asks whether to trust the host fingerprint, type `yes` and press Enter. I
 
 At `Enter passphrase for key`, enter the **Lab 03 key passphrase**. Do not enter the `analyst` account password.
 
-**Required result:**
+**Required result:** AUTH_TEST=PUBLICKEY_SUCCESS analyst cf-student-XX
 
 ```text
 AUTH_TEST=PUBLICKEY_SUCCESS
